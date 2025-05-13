@@ -3,7 +3,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { Container, Row, Col, Card, Carousel, Button, Modal, Spinner } from 'react-bootstrap';
 import { useNavigate } from 'react-router-dom';
-import { FaBook, FaMusic, FaFilm, FaPodcast, FaRobot, FaMobileAlt } from 'react-icons/fa';
+import { FaBook, FaMusic, FaFilm, FaPodcast} from 'react-icons/fa';
 import axios from 'axios';
 
 
